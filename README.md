@@ -267,22 +267,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-**Sahand Mosharafian**
-- GitHub: [@sahandmsh](https://github.com/sahandmsh)
-- Project Link: [https://github.com/sahandmsh/agentic_ai](https://github.com/sahandmsh/agentic_ai)
+**Mulinti Pulishekhar**
+- GitHub: [@Pulishekhar](https://github.com/Pulishekhar)
+- Project Link: [https://github.com/Pulishekhar/Agentic_AI](https://github.com/Pulishekhar/Agentic_AI)
 
-## 🔖 Citation
-
-If you use this project in your research, please cite:
-
-```bibtex
-@software{mosharafian2025agenticai,
-  author = {Mosharafian, Sahand},
-  title = {Agentic AI: Intelligent QA Agent with RAG and Web Search},
-  year = {2025},
-  url = {https://github.com/sahandmsh/agentic_ai}
-}
-```
 
 ---
 
