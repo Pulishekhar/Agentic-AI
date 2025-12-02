@@ -269,7 +269,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Mulinti Pulishekhar**
 - GitHub: [@Pulishekhar](https://github.com/Pulishekhar)
-- Project Link: [https://github.com/Pulishekhar/Agentic_AI](https://github.com/Pulishekhar/Agentic_AI)
+- Project Link: [https://github.com/Pulishekhar/Agentic-AI](https://github.com/Pulishekhar/Agentic-AI)
 
 
 ---
